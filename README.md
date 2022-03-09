@@ -1,4 +1,5 @@
-# Airbnb JavaScript Style Guide() {
+﻿# Airbnb JavaScript Style Guide() {
+"Change file com6"
 
 *A mostly reasonable approach to JavaScript*
 
