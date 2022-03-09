@@ -1,5 +1,6 @@
 ﻿# Airbnb JavaScript Style Guide() {
 "Change file com6"
+"Change file com1"
 
 *A mostly reasonable approach to JavaScript*
 
